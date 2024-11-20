@@ -1,0 +1,16 @@
+Participant_ID,Response,Cluster,PCA1,PCA2,Theme
+1,The support group helped me feel less alone.,2,0.5796735649772712,0.1673371339766276,Positive Experience & Insights
+2,I found it hard to express my feelings during the sessions.,0,-0.14743296790730723,-0.3305302126022125,Emotional Support & Connection
+3,The activities were engaging and encouraged participation.,0,-0.08238141550977658,-0.09858152945762051,Emotional Support & Connection
+4,I did not feel understood by the counselor.,2,0.3196714497702466,-0.1460731576722976,Positive Experience & Insights
+5,Sharing my story was a powerful and healing experience.,0,-0.14487347028931102,-0.31400054166783525,Emotional Support & Connection
+6,The environment felt safe and non-judgmental.,0,-0.35744650884884577,0.42586310536386923,Emotional Support & Connection
+7,I struggled to connect with others in the group.,2,0.474836625614351,0.25431624252214924,Positive Experience & Insights
+8,The sessions provided practical strategies for managing stress.,0,-0.147432967907307,-0.33053021260221227,Emotional Support & Connection
+9,I felt the discussions were repetitive and unhelpful.,0,-0.36925227410498623,0.4449979852054076,Emotional Support & Connection
+10,The group leader was very empathetic and supportive.,1,0.4434588050172572,0.24236555511337038,Challenges & Barriers
+11,I gained new insights into my own behavior through the exercises.,3,-0.08238141550977636,-0.09858152945762101,Logistical or Practical Issues
+12,The session times were inconvenient for my schedule.,0,-0.08238141550977626,-0.09858152945762079,Emotional Support & Connection
+13,I felt validated when others shared similar experiences.,0,-0.3574465088488462,0.4258631053638701,Emotional Support & Connection
+14,Some topics discussed did not seem relevant to me.,0,0.09826196934611738,-0.22986387296003927,Emotional Support & Connection
+15,The overall experience gave me a sense of hope.,0,-0.14487347028931083,-0.31400054166783486,Emotional Support & Connection
